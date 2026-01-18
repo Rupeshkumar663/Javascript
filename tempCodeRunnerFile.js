@@ -1,1 +1,2 @@
-console.log("abhishek mishra="+5+"<br/>");
+ if(false)
+       resolve();
